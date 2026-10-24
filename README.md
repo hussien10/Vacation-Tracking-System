@@ -6,9 +6,6 @@ without having to be an expert in company policy or the local facility’s leave
 policies.
 
 ## Function Requirements
-<<<<<<< HEAD
-- 
-=======
 -  Implements a flexible rules-based system for validating and verifying leave
 time requests
 - Enables manager approval (optional)
@@ -26,14 +23,16 @@ limits)
 - Provides a Web service interface for other internal systems to query any given employee’s vacation request summary
 - Interfaces with the HR department legacy systems to retrieve required
 employee information and changes
->>>>>>> 6e3a7c12bfea3b66d0a20585cbe0e394aef94e29
+
 ## Non Function Requirements
 - Uses existing hardware and middleware
 - ui and ux same as legacy portal
+
 ## Constarains
 
 ## Domain
 > In The Past The, all vacation time have to be approved by immediate manager and then checked by a clerk in the HR department Befor it Was authorized\
-some time this manual process take a days 
+some time this manual process take a days
+
 ## List Actors Of The System
 
