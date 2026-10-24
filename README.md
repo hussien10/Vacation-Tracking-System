@@ -6,9 +6,30 @@ without having to be an expert in company policy or the local facility’s leave
 policies.
 
 ## Function Requirements
+<<<<<<< HEAD
 - 
+=======
+-  Implements a flexible rules-based system for validating and verifying leave
+time requests
+- Enables manager approval (optional)
+- Provides access to requests for the previous calendar year, and allows
+- requests to be made up to a year and a half in the future
+- Uses e-mail notification to request manager approval and notify employees
+of request status changes
+- Is implemented as an extension to the existing intranet portal system, and
+uses the portal’s single-sign-on mechanisms for all authentication
+- Keeps activity logs for all transactions
+- Enables the HR and system administration personnel to override all actions
+restricted by rules, with logging of those overrides
+- Allows managers to directly award personal leave time (with system-set
+limits)
+- Provides a Web service interface for other internal systems to query any given employee’s vacation request summary
+- Interfaces with the HR department legacy systems to retrieve required
+employee information and changes
+>>>>>>> 6e3a7c12bfea3b66d0a20585cbe0e394aef94e29
 ## Non Function Requirements
-
+- Uses existing hardware and middleware
+- ui and ux same as legacy portal
 ## Constarains
 
 ## Domain
