@@ -35,4 +35,8 @@ employee information and changes
 some time this manual process take a days
 
 ## List Actors Of The System
+- Manager
+- Clerck
+- Employee
+- System Admin
 
